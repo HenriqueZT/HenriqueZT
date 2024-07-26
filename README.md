@@ -1,4 +1,4 @@
-<h1>👋Eai, sou Henrique Zanchetta</h1>
+<h1>👋Eai, eu sou Henrique</h1>
 
 - 🔭 A procura de um emprego 
 - 🌱 Aprendendo C#, Unity e JS 
