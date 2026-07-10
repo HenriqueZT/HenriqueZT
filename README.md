@@ -1,7 +1,7 @@
 <h1>👋Eai, eu sou Henrique</h1>
 
 - 🔭 A procura de um emprego 
-- 🌱 Aprendendo C#, Unity e JS 
+- 🌱 Dev Back-End estudando Spring Boot
  
 <div>
 <a href="https://github.com/HenriqueZT"> 
